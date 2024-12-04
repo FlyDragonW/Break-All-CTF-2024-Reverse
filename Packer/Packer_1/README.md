@@ -4,7 +4,9 @@ Packer_1
 ```
 ## Challenge
 ```
-The binary is compressed by UPX. 
+The binary is compressed by UPX.  
+
+Hint: upx -d
 
 Author: Flydragon
 ```

@@ -6,6 +6,8 @@ ELF_1
 ```
 俺が大谷翔平………!? え…マジで？  
 
+Hint: There is a suspicious function  
+
 Author: Flydragon
 ```
 ## File

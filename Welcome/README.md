@@ -7,6 +7,8 @@ Welcome
 Welcome to Break-All-CTF-Reverse!  
 Run the binary to get further info.
 
+Hint: Decompile  
+
 Author: Flydragon
 ```
 ## File
