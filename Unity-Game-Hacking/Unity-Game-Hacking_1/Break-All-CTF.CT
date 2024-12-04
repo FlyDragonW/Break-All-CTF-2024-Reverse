@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"No description"</Description>
+      <VariableType>Float</VariableType>
+      <Address>211E0090D14</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>75</Key>
+          </Keys>
+          <Value>10</Value>
+          <ID>0</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
