@@ -4,9 +4,9 @@ Packer_1
 ```
 ## Challenge
 ```
-The binary is compressed by UPX.  
+We got the best encryptor before 2080!    
 
-Hint: upx -d
+Hint: UPX
 
 Author: Flydragon
 ```

@@ -6,7 +6,7 @@ Packer_3
 ```
 A different Packer! Wonderful!  
 
-P.S.: There is an extremely easy way to solve the challenge, but it is not recommended to use that method unless you really can't figure out what this Packer is doing.
+P.S.: There is an extremely easy solution, but it is not recommended to use that method unless you really can't figure out what this Packer is doing.
 
 Author: Flydragon
 ```
