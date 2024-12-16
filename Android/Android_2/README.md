@@ -3,6 +3,7 @@
 Android_2
 ```
 ## Challenge
+```
 There are only two types of people in this world...  
 
 Author: Flydragon
