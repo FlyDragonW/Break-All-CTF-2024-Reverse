@@ -19,5 +19,5 @@ flag{W3lc0m3}
 ```
 ## Solve
 ```
-(pending)
+Decompile the binary
 ```

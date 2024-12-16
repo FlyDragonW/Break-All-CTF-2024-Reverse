@@ -17,5 +17,5 @@ flag{1_Hat3_m4tH}
 ```
 ## Solve
 ```
-(pending)
+Run the solve.py to know the order, follow the order to get flag
 ```

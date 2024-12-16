@@ -17,5 +17,5 @@ Author: Flydragon
 ```
 ## Solve
 ```
-(pending)
+Use UnityExplorer to find the sign
 ```

@@ -18,5 +18,5 @@ flag{u_4re_f@s7eR_tHaN_m3}
 ```
 ## Solve
 ```
-(pending)
+把 secret 資料夾設置禁止刪除
 ```

@@ -18,5 +18,5 @@ flag{dec0️⃣mile_🅰p️k🤓UTF-8}
 ```
 ## Solve
 ```
-(pending)
+python3 solve.py
 ```

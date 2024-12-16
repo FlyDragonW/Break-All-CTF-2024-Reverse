@@ -16,5 +16,5 @@ flag{__+z3&Dyn4mic+__}
 ```
 ## Solve
 ```
-(pending)
+run the solve.py to get first part of flag, then use gdb to debug the binary to get the second part
 ```

@@ -18,5 +18,5 @@ flag{Patch?Reverse!}
 ```
 ## Solve
 ```
-(pending)
+python3 solve.py
 ```

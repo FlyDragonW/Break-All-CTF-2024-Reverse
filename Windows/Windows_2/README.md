@@ -18,5 +18,5 @@ flag{DLL_create_/sc_DAILY_/st_07:00}
 ```
 ## Solve
 ```
-(pending)
+字頻分析 schtask 的 description
 ```

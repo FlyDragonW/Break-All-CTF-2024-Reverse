@@ -28,5 +28,5 @@ flag{symb0lic_f1le}
 ```
 ## Solve
 ```
-(pending)
+python3 solve.py
 ```
